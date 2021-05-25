@@ -400,7 +400,7 @@ var Icon$u = function (props) {
 
 var Icon$v = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("image", { width: 90, height: 90, href: "/images/egg/9.png" })));
+        React.createElement("image", { width: 90, height: 90, href: "https://i.ibb.co/s3D1HM2/186532411-1136189266902620-696115716973781045-n.jpg" })));
 };
 
 var Icon$w = function (props) {
@@ -1125,7 +1125,7 @@ var Progress = function (_a) {
 var rotate$1 = keyframes(templateObject_1$r || (templateObject_1$r = __makeTemplateObject(["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"], ["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"])));
 var SpinnerIcon = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 96 96" }, props),
-        React.createElement("image", { width: "96", height: "96", href: "/images/egg/9.png" })));
+        React.createElement("image", { width: "96", height: "96", href: "https://i.ibb.co/s3D1HM2/186532411-1136189266902620-696115716973781045-n.jpg" })));
 };
 var Container$1 = styled.div(templateObject_2$6 || (templateObject_2$6 = __makeTemplateObject(["\n  position: relative;\n"], ["\n  position: relative;\n"])));
 var RotatingPancakeIcon = styled(SpinnerIcon)(templateObject_3$2 || (templateObject_3$2 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"])), rotate$1);
@@ -1860,7 +1860,7 @@ var Icon$O = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 39" }, props),
-        React.createElement("image", { width: "205", height: "40", href: isDark ? "/images/egg/LogoTextNewDark.png" : "/images/egg/LogoTextNewWhite.png" })));
+        React.createElement("image", { width: "95", height: "40", href: isDark ? "https://i.ibb.co/s3D1HM2/186532411-1136189266902620-696115716973781045-n.jpg" : "https://i.ibb.co/s3D1HM2/186532411-1136189266902620-696115716973781045-n.jpg" })));
 };
 
 var Icon$P = function (props) {
@@ -2747,7 +2747,7 @@ var baseColors = {
     primary: "#7dcc32",
     primaryBright: "#22310a",
     primaryDark: "#d95b00",
-    secondary: "#7645D9",
+    secondary: "#8fd129",
     success: "#68CF29",
     warning: "#FFAB2D",
 };
