@@ -2103,7 +2103,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/martianswap",
+                href: "#",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2147,14 +2147,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/martianswap",
+                href: "#",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/MartianSWAP",
+        href: "#",
     },
 ];
 var MENU_HEIGHT = 64;

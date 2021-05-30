@@ -76,9 +76,5 @@
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
   },
-  "bugs": {
-    "url": "https://github.com/martiandefi/martian-ui-kit-dex"
-  },
-  "homepage": "https://github.com/martiandefi/martian-ui-kit-dex#readme",
-  "author": ""
+  "author": "Rout Chaitanya"
 }
